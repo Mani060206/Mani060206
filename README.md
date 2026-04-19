@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Iam Manikanta 👋
 
 <!--
 # Hi there, I'm Mani! 👋
