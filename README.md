@@ -8,6 +8,7 @@ I am a passionate Python developer currently building projects and learning the 
 ### 🛠 My Projects
 - 🎮 **[Rock-Paper-Scissors](https://github.com/Mani060206/ROCK-PAPER-SCISSOR)**: A classic game built with Python logic.
 - ✅ **[To-Do List](https://github.com/Mani060206/TO-DO-LIST)**: A functional task management script.
+-     **[BASIC-CALCULATOR0(https://github.com/Mani060206/BASIC-CALCULATOR.git)**:a basic calc
 
 ### 🚀 What I'm Learning
 - Advanced Python logic and automation.
